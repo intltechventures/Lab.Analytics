@@ -18,3 +18,16 @@
     * Offshore Leaks Database by ICIJ Graph Example
 
 
+- LuxLeaks
+  + https://en.wikipedia.org/wiki/LuxLeaks
+  
+
+- Panama Papers
+  + https://en.wikipedia.org/wiki/Panama_Papers
+
+
+- Swiss Leaks
+  + https://en.wikipedia.org/wiki/Swiss_Leaks
+
+
+
